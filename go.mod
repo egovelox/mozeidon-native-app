@@ -3,6 +3,7 @@ module github.com/egovelox/mozeidon-native-app
 go 1.21.1
 
 require (
+	github.com/google/uuid v1.6.0
 	github.com/james-barrow/golang-ipc v1.2.4
 	github.com/rickypc/native-messaging-host v1.16.0
 )
